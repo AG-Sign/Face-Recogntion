@@ -7,4 +7,4 @@ subjects
 •The dataset has 10 images per 40 subjects. Every image is a grayscale
 image of size 92x112
 
-•For the rest of details look up our report attached [https://github.com/AG-Sign/Face-Recogntion/blob/main/Face_Recognition_Report.pdf]
+•For the rest of details look up our report attached [Report](https://github.com/AG-Sign/Face-Recogntion/blob/main/Face_Recognition_Report.pdf)
